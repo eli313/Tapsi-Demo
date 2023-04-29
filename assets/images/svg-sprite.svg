@@ -1,0 +1,85 @@
+<svg width="0" height="0" class="hidden">
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" id="message">
+    <path d="M213.332 21.332H42.668c-11.785 0-21.336 9.55-21.336 21.336v192L64 192h149.332c11.785 0 21.336-9.55 21.336-21.332v-128c0-11.84-9.602-21.336-21.336-21.336zm0 0"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" id="map">
+    <path d="M128 122.668c-14.727 0-26.668-11.941-26.668-26.668 0-14.727 11.941-26.668 26.668-26.668 14.727 0 26.668 11.941 26.668 26.668 0 14.727-11.941 26.668-26.668 26.668m0-101.336c-41.238 0-74.668 33.43-74.668 74.668 0 56 74.668 138.668 74.668 138.668S202.668 152 202.668 96c0-41.238-33.43-74.668-74.668-74.668zm0 0"></path>
+  </symbol>
+  <symbol xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" id="phone">
+    <path d="M165.332 10.668H80c-14.719 0-26.668 11.945-26.668 26.664v181.336c0 14.719 11.95 26.664 26.668 26.664h85.332c14.723 0 26.668-11.945 26.668-26.664V37.332c0-14.719-11.945-26.664-26.668-26.664zm-42.664 224c-8.856 0-16-7.148-16-16 0-8.856 7.144-16 16-16 8.852 0 16 7.144 16 16 0 8.852-7.148 16-16 16zm48-42.668h-96V42.668h96zm0 0"></path>
+  </symbol>
+</svg>
+
+<svg width="0" height="0" class="hidden">
+  <symbol version="1.1" id="twitter-svgrepo-com" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" viewBox="0 0 512.002 512.002">
+    <path d="M500.398,94.784c-8.043,3.567-16.313,6.578-24.763,9.023c10.004-11.314,17.631-24.626,22.287-39.193
+	c1.044-3.265-0.038-6.839-2.722-8.975c-2.681-2.137-6.405-2.393-9.356-0.644c-17.945,10.643-37.305,18.292-57.605,22.764
+	c-20.449-19.981-48.222-31.353-76.934-31.353c-60.606,0-109.913,49.306-109.913,109.91c0,4.773,0.302,9.52,0.9,14.201
+	c-75.206-6.603-145.124-43.568-193.136-102.463c-1.711-2.099-4.347-3.231-7.046-3.014c-2.7,0.211-5.127,1.734-6.491,4.075
+	c-9.738,16.709-14.886,35.82-14.886,55.265c0,26.484,9.455,51.611,26.158,71.246c-5.079-1.759-10.007-3.957-14.711-6.568
+	c-2.525-1.406-5.607-1.384-8.116,0.054c-2.51,1.439-4.084,4.084-4.151,6.976c-0.012,0.487-0.012,0.974-0.012,1.468
+	c0,39.531,21.276,75.122,53.805,94.52c-2.795-0.279-5.587-0.684-8.362-1.214c-2.861-0.547-5.802,0.456-7.731,2.638
+	c-1.932,2.18-2.572,5.219-1.681,7.994c12.04,37.591,43.039,65.24,80.514,73.67c-31.082,19.468-66.626,29.665-103.939,29.665
+	c-7.786,0-15.616-0.457-23.279-1.364c-3.807-0.453-7.447,1.795-8.744,5.416c-1.297,3.622,0.078,7.66,3.316,9.736
+	c47.935,30.735,103.361,46.98,160.284,46.98c111.903,0,181.907-52.769,220.926-97.037c48.657-55.199,76.562-128.261,76.562-200.451
+	c0-3.016-0.046-6.061-0.139-9.097c19.197-14.463,35.724-31.967,49.173-52.085c2.043-3.055,1.822-7.094-0.545-9.906
+	C507.7,94.204,503.76,93.294,500.398,94.784z"></path>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+    <g></g>
+  </symbol>
+  <symbol xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsCc="http://creativecommons.org/ns#" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlnsSvg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="linkedin" xml:space="preserve" inkscapeVersion="0.47 r22583" sodipodiDocname="linkedin.svg" viewBox="0 0 40 40">
+    <metadata id="metadata17">
+      <rdf:RDF>
+        <cc:Work rdfAbout="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type rdfResource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+    <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscapePageopacity="0" inkscapePageshadow="2" inkscapeWindowWidth="1920" inkscapeWindowHeight="1124" id="namedview15" showgrid="false" inkscapeZoom="5.3940105" inkscapeCx="123.19671" inkscapeCy="75.650418" inkscapeWindowX="0" inkscapeWindowY="25" inkscapeWindowMaximized="1" inkscapeCurrentLayer="svg2" width="40px"></sodipodi:namedview>
+    <defs id="defs6">
+      <inkscape:perspective sodipodiType="inkscape:persp3d" inkscapeVp_x="0 : 495 : 1" inkscapeVp_y="0 : 1000 : 0" inkscapeVp_z="765 : 495 : 1" inkscapePersp3dOrigin="382.5 : 330 : 1" id="perspective19"></inkscape:perspective>
+      <clipPath id="clipPath20">
+        <path d="M 0,1440 0,0 l 1551.6,0 0,1440 L 0,1440 z" id="path22"></path>
+      </clipPath>
+    </defs>
+    <path d="M 37.039208,0 2.9524312,0 C 1.3235483,0 0,1.2910548 0,2.8829991 L 0,37.113601 C 0,38.706945 1.3235483,40 2.9524312,40 L 37.039208,40 C 38.670851,40 40,38.706945 40,37.113601 L 40,2.8829991 C 40,1.2910548 38.670851,0 37.039208,0" id="path24"></path>
+    <path d="m 8.8983209,5.5069073 c 1.8965571,0 3.4378691,1.541646 3.4378691,3.4388796 0,1.8989331 -1.541312,3.4407791 -3.4378691,3.4407791 -1.9015569,0 -3.4407023,-1.541846 -3.4407023,-3.4407791 0,-1.8972336 1.5391454,-3.4388796 3.4407023,-3.4388796 m -2.9679588,9.4892677 5.9330849,0 0,19.089132 -5.9330849,0 0,-19.089132" id="path26"></path>
+    <path d="m 15.584423,14.996175 5.691115,0 0,2.608109 0.07889,0 c 0.791545,-1.500748 2.726936,-3.083292 5.613312,-3.083292 6.007638,0 7.11679,3.953861 7.11679,9.093381 l 0,10.470934 -5.928807,0 0,-9.282975 c 0,-2.214823 -0.04056,-5.062123 -3.082817,-5.062123 -3.087319,0 -3.560063,2.411816 -3.560063,4.901729 l 0,9.443369 -5.928417,0 0,-19.089132" id="path28"></path>
+  </symbol>
+  <symbol xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsCc="http://creativecommons.org/ns#" xmlnsRdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlnsSvg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlnsSodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlnsInkscape="http://www.inkscape.org/namespaces/inkscape" id="logo-telegram" version="1.1" inkscapeVersion="0.48.5 r10040" sodipodiDocname="logo-telegram.svg" viewBox="0 0 512 512">
+    <defs id="defs2987"></defs>
+    <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscapePageopacity="1" inkscapePageshadow="2" inkscapeZoom="0.69191503" inkscapeCx="256" inkscapeCy="253.00676" inkscapeDocumentUnits="px" inkscapeCurrentLayer="layer5" showgrid="false" inkscapeWindowWidth="1024" inkscapeWindowHeight="721" inkscapeWindowX="-4" inkscapeWindowY="-4" inkscapeWindowMaximized="1" width="512px"></sodipodi:namedview>
+    <metadata id="metadata2990">
+      <rdf:RDF>
+        <cc:Work rdfAbout="">
+          <dc:format>image/svg+xml</dc:format>
+          <dc:type rdfResource="http://purl.org/dc/dcmitype/StillImage"></dc:type>
+          <dc:title></dc:title>
+        </cc:Work>
+      </rdf:RDF>
+    </metadata>
+    <g inkscapeLabel="Calque 1" inkscapeGroupmode="layer" id="layer1" transform="translate(0,-540.36216)"></g>
+    <g inkscapeGroupmode="layer" id="layer4" inkscapeLabel="Logo">
+      <path sodipodiType="arc" id="path3805" sodipodiCx="255.35715" sodipodiCy="304.5" sodipodiRx="105.35714" sodipodiRy="105.35714" d="m 360.71429,304.5 a 105.35714,105.35714 0 1 1 -210.71428,0 105.35714,105.35714 0 1 1 210.71428,0 z" transform="matrix(2.2338148,0,0,2.2397144,-314.42057,-425.99303)"></path>
+      <path d="m 119.21684,264.69757 c 0,0 -6.09569,-5.49004 -5.05843,-8.6716 1.30394,-3.99956 11.56213,-5.05842 11.56213,-5.05842 l 227.6291,-89.60638 c 0,0 8.16958,-2.56716 11.56212,-0.72262 3.88484,2.1122 6.50368,11.5621 6.50368,11.5621 l -45.52582,198.72382 c 0,0 -2.42078,3.62144 -4.33578,4.3358 -3.16766,1.18164 -10.11686,-0.72264 -10.11686,-0.72264 l -59.97846,-46.24844 -37.57686,37.57686 -10.11686,-7.94894 -22.4016,-70.81796 z" id="path4333" inkscapeConnectorCurvature="0" sodipodiNodetypes="csccsccscccccc"></path>
+    </g>
+    <g inkscapeGroupmode="layer" id="layer5" inkscapeLabel="Ombre">
+      <path d="m 182.44716,287.09915 138.74536,-89.96768 5.05842,1.44526 -1.80658,3.97448 -109.84008,99.3619 -5.05842,59.97846 -6.14238,-4.33578 z" id="path4336" inkscapeConnectorCurvature="0"></path>
+      <path d="m 215.68824,302.27443 c 0,1.44526 35.04764,27.0987 35.04764,27.0987 l -35.77028,36.1316 -5.41974,-5.05842 z" id="path4338" inkscapeConnectorCurvature="0"></path>
+    </g>
+  </symbol>
+</svg>
