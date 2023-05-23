@@ -270,15 +270,20 @@ h2 {
 .main--header {
   background-color: var(--navbar-color);
   display: block;
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 1030;
+  border-bottom: 1px solid #ddd;
 }
 
 .nav {
   display: flex;
-  flex: wrap;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
   padding: 1rem 2rem;
+
 }
 
 .nav__list {
@@ -319,7 +324,7 @@ h2 {
 .nav__item.cta a {
   color: var(--color-secondary-light);
   font-size: 1.4rem;
-  padding: 1rem 3rem;
+  padding: .8rem 3rem;
   display: flex;
   justify-content: center;
   margin: 0;
@@ -387,8 +392,8 @@ h2 {
   height: 478px;
 }
 
-.hero--section img,
-.hero--section picture {
+.hero--section img {
+  margin-top: 2rem;
   width: 100%;
   height: 478px;
   object-fit: cover;
@@ -396,7 +401,7 @@ h2 {
 
 .hero--wrapper {
   position: absolute;
-  top: 10%;
+  top: 5%;
   width: 100%;
   height: 478px;
   display: flex;
@@ -1070,4 +1075,9 @@ textarea {
   padding: 1.5rem 0.5rem;
   margin: 0.5rem;
   width: 10rem;
+  height: 12rem;
+}
+
+img.trust-logo {
+  object-fit: contain;
 }

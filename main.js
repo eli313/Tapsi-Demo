@@ -1,7 +1,5 @@
 const toggler = document.querySelector(".nav__toggler");
-console.log(toggler);
 const navbar = document.querySelector(".navbar");
-console.log(navbar);
 toggler.addEventListener("click", (e) => {
   navbar.classList.toggle("nav__expanded");
 });
